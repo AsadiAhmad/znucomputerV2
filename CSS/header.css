@@ -1,0 +1,60 @@
+header.header {
+  height: 700px;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  clip-path: polygon(0 0, 100% 0, 100% 90%, 0 100%);
+}
+
+header.main-header {
+  background-image: 
+    linear-gradient(to right bottom, 
+    rgba(206, 232, 239, 0.2),
+    rgba(30, 108, 217, 0.4)),
+    url(/image/ZNU.jpg);
+}
+
+header.semester5-header {
+  background-image: url(/image/Lib.jpg);
+}
+
+header.semester6-header {
+  background-image: url(/image/rain.jpg);
+}
+
+header.semester7-header {
+  background-image: url(/image/lib2.jpg);
+}
+
+header.about-header {
+  background-image: url(/image/rain.jpg);
+}
+
+p.header-text {
+  padding-top: 150px;
+  text-align: center;
+  margin: 0 30px 0 30px;
+  font-family: 'Dancing Script', cursive;
+	font-size: 50px;
+  font-weight: 500;
+}
+
+@media (max-width: 910px) {
+  header.header{
+    height: 600px;
+  }
+
+  p.header-text {
+    font-size: 40px;
+  }
+}
+
+@media (max-width: 500px) {
+  header.header{
+    height: 500px;
+  }
+
+  p.header-text {
+    font-size: 30px;
+  }
+}

@@ -1,0 +1,65 @@
+h2.course-section-text {
+  color: #555;
+  text-align: center;
+  padding-top: 30px;
+  font-size: 3rem;
+  font-weight: 400;
+  margin-bottom: 1rem;
+  font-family: 'xb_niloofarregular';
+}
+
+div.course-container {
+  max-width: 1600px;
+  padding: 0 12% 70px 12%;
+}
+
+div.row {
+  display: flex;
+  justify-content: space-around;
+  box-sizing: border-box;
+}
+
+div.course {
+  position: relative;
+  margin: 0px;
+  box-sizing: border-box;
+  width: 250px;
+}
+
+p.course-text {
+  text-align: center;
+  font-family: 'ubunturegular';
+  font-size: 1.4rem;
+  font-weight: 500;
+}
+
+img.course-img {
+  display: block;
+  width: 100%;
+  padding: 30px;
+}
+
+@media (max-width: 910px) {
+  div.course-container {
+    padding: 0 6% 70px 6%;
+  }
+}
+
+@media (max-width: 510px) {
+  div.row {
+    flex-direction: column;
+  }
+
+  div.course {
+    margin: 0px 40px 0px 40px;
+  }
+
+  div.course-container {
+    padding: 0 12% 70px 12%;
+  }
+
+  p.course-text {
+    font-size: 1.2rem;
+    font-weight: 300;
+  }
+}

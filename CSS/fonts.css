@@ -1,0 +1,15 @@
+@font-face {
+  font-family: 'xb_niloofarregular';
+  src: url('/Fonts/xb-niloofar.woff') format('woff2'),
+       url('/Fonts/xb-niloofar.woff2') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'ubunturegular';
+  src: url('/Fonts/ubuntu-regular-webfont.woff') format('woff2'),
+       url('/Fonts/ubuntu-regular-webfont.woff2') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
