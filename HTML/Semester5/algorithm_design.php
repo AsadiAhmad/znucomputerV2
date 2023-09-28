@@ -11,6 +11,7 @@
   <link rel="stylesheet" href="/CSS/footer.css">
   <link rel="stylesheet" href="/CSS/fonts.css">
   <link rel="stylesheet" href="/CSS/video.css">
+  <link rel="stylesheet" href="/CSS/passage.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
 <body>
@@ -18,10 +19,15 @@
   <header class="header about-header">
 
   </header>
+  <section class="passage-section">
+    <h2 class="passage-text">Passage</h2>
+    <div class="passage-container">
+
+    </div>
+  </section>
   <section class="video-section">
     <h2 class="video-text">Video Player</h2>
     <div class="video-container">
-      
       <div class="left">
         <div class="play-list">
           <a href=""><div class="part"><p>1</p></div></a>
@@ -44,15 +50,15 @@
       </div>
       <div class="right">
         <div class="video-player">
-          <video class="video" controls>
+          <video class="video" poster="/image/Lib.jpg" controls>
             <!-- <source
               src="https://ir72.uploadboy.com/d/vqoaa9lfcwmc/sbne4dw4jax7hcohgixhrx665vhqa3a7gwysmxobezdy3atcqp4mezrzvmg36uq3b2jtp3td/Rec 0011.mp4"
               type="video/mp4"
             /> -->
-            <!-- <source
+            <source
               src="https://www.googleapis.com/drive/v3/files/12LF1KzePMy9MYwpnSS0qoskZJh1RDruH?alt=media&key=AIzaSyCq6g0g8IvXUzE88LloOuAJyQ1vHYRRnsM"
               type="video/webm"
-            /> -->
+            />
             <source
               src="http://fileshare.znu.ac.ir/s/yyqC9h6MB7hNe6E/download"
               type="video/mp4"
