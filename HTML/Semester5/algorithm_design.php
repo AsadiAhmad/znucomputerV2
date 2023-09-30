@@ -22,7 +22,8 @@
   <section class="passage-section">
     <h2 class="passage-text">Passage</h2>
     <div class="passage-container">
-
+      <img class="passage-image" src="/image/lesson-img/algorithm-design.jpg" alt="">
+      <p class="passage-passage"></p>
     </div>
   </section>
   <section class="video-section">

@@ -6,3 +6,9 @@ h2.passage-text {
   font-weight: 400;
   padding-top: 30px;
 }
+
+div.passage-container {
+  padding: 0 7% 0 7%;
+  max-width: 1300px;
+  background-color: red;
+}
