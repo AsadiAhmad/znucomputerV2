@@ -22,8 +22,14 @@
   <section class="passage-section">
     <h2 class="passage-text">Passage</h2>
     <div class="passage-container">
-      <img class="passage-image" src="/image/lesson-img/algorithm-design.jpg" alt="">
-      <p class="passage-passage"></p>
+      <div class="passage-img-div">
+        <img class="passage-image" src="/image/lesson-img/algorithm-design.jpg" alt="">
+      </div>
+      <div class="passage-text-div">
+        <p class="passage-p">
+          Lorem ipsum dolor sit amet consectetur, adipisicing elit. Neque eaque iste, molestiae sint illo commodi! Hic, dolorem assumenda ducimus, nihil inventore dignissimos, exercitationem rerum consectetur facere commodi maiores sunt perferendis. Nulla nam esse, sed ipsum laudantium maiores soluta culpa ratione voluptatum minima ab molestias voluptates? Laboriosam voluptates quasi quaerat hic nesciunt aspernatur facere minus eligendi explicabo tenetur molestias nulla necessitatibus libero minima repellendus ducimus voluptatum obcaecati praesentium pariatur temporibus, distinctio, dolor fuga quas odio. Ea dolores id consectetur non esse neque impedit quo tempora deserunt unde, eaque accusantium at! Saepe et delectus dicta architecto, qui nobis corrupti placeat sit exercitationem.
+        </p>
+      </div>
     </div>
   </section>
   <section class="video-section">

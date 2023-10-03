@@ -8,7 +8,40 @@ h2.passage-text {
 }
 
 div.passage-container {
-  padding: 0 7% 0 7%;
-  max-width: 1300px;
-  background-color: red;
+  padding: 0 10% 0 10%;
+  max-width: 1600px;
+  display: flex;
+  flex-direction: row;
+}
+
+p.passage-p {
+  text-align: justify;
+  font-family: 'ubunturegular';
+  font-size: 20px;
+  padding: 40px 30px 0 30px;
+}
+
+img.passage-image {
+  padding-top: calc(170px - 10vw);
+}
+
+@media (max-width: 900px) {
+  div.passage-container {
+    flex-direction: column;
+    font-size: 16px;
+  }
+
+  div.passage-img-div{
+    order: 1;
+  }
+
+  img.passage-image {
+    display: none;
+  }
+}
+
+@media (max-width: 500px) {
+  p.passage-p {
+    font-size: 15px;
+  }
 }
