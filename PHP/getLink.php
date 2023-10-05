@@ -6,7 +6,7 @@
   $section = $_GET['section'];
 
   // Fetch the video link from the database
-  $sql = "SELECT Link FROM links WHERE Semster = '6' AND Lesson = '$lesson' AND Section = '$section';";
+  $sql = "SELECT Link FROM links WHERE Lesson = '$lesson' AND Section = '$section';";
   $result = $connction->query($sql);
 
   if ($result->num_rows > 0) {
