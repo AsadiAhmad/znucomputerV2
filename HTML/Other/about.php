@@ -12,10 +12,10 @@
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
 <body>
-  <? include './../Other/navbar.html'?>
+  <?php include './../Other/navbar.html'?>
   <header class="header about-header">
 
   </header>
-  <? include './../Other/footer.html'?>
+  <?php include './../Other/footer.html'?>
 </body>
 </html>

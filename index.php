@@ -14,7 +14,7 @@
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
 <body>
-  <? include './HTML/Other/navbar.html'?>
+  <?php include './HTML/Other/navbar.html'?>
   <header class="header main-header">
     <p class="header-text"> Zanjan University Computer Website</p>
   </header>
@@ -47,6 +47,6 @@
       </div>
     </div>
   </section>
-  <? include './HTML/Other/footer.html'?>
+  <?php include './HTML/Other/footer.html'?>
 </body>
 </html>
