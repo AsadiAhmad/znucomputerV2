@@ -51,10 +51,10 @@
       <div class="right">
         <div class="video-player">
           <video id="video" class="video" poster="/image/Lib.jpg" controls>
-            <source
+            <!-- <source
               src="http://clips.vorwaerts-gmbh.de/VfE_html5.mp4"
               type="video/mp4"
-            />
+            /> -->
             <!-- <source
               src="https://www.googleapis.com/drive/v3/files/12LF1KzePMy9MYwpnSS0qoskZJh1RDruH?alt=media&key=AIzaSyCq6g0g8IvXUzE88LloOuAJyQ1vHYRRnsM"
               type="video/webm"
