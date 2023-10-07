@@ -37,10 +37,10 @@
     <div class="video-container">
       <div class="left">
         <div class="play-list">
-          <div class="part" data-lesson="AI" data-section="1">1</div>
-          <div class="part">1</div>
-          <div class="part">1</div>
-          <div class="part">1</div>
+          <div class="part" data-lesson="compiler_design" data-section="1"><p class="section-txt">Section 1</p><p class="date-txt">1400/00/00</p></div>
+          <div class="part" data-lesson="compiler_design" data-section="2">1</div>
+          <div class="part" data-lesson="compiler_design" data-section="3">1</div>
+          <div class="part" data-lesson="compiler_design" data-section="4">1</div>
           <div class="part">1</div>
           <div class="part">1</div>
           <div class="part">1</div>
