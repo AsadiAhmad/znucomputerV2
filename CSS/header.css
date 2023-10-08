@@ -31,12 +31,18 @@ header.about-header {
 }
 
 p.header-text {
-  padding-top: 150px;
+  background-color: aliceblue;
+  opacity: 50%;
   text-align: center;
-  margin: 0 30px 0 30px;
+  padding: 10px 40px 10px 40px;
+
   font-family: 'Dancing Script', cursive;
-	font-size: 50px;
+	font-size: 60px;
   font-weight: 500;
+}
+
+div.header-div-text {
+  padding-top: 220px;
 }
 
 @media (max-width: 910px) {

@@ -17,7 +17,9 @@
 <body>
   <?php include './../Other/navbar.html'?>
   <header class="header about-header">
-
+    <div class="header-div-text">
+      <p class="header-text"> algorithm design</p>
+    </div>
   </header>
   <section class="passage-section">
     <h2 class="passage-text">Passage</h2>
@@ -50,19 +52,7 @@
       </div>
       <div class="right">
         <div class="video-player">
-          <video id="video" class="video" poster="/image/Lib.jpg" controls>
-            <!-- <source
-              src="http://clips.vorwaerts-gmbh.de/VfE_html5.mp4"
-              type="video/mp4"
-            /> -->
-            <!-- <source
-              src="https://www.googleapis.com/drive/v3/files/12LF1KzePMy9MYwpnSS0qoskZJh1RDruH?alt=media&key=AIzaSyCq6g0g8IvXUzE88LloOuAJyQ1vHYRRnsM"
-              type="video/webm"
-            />
-            <source
-              src="http://fileshare.znu.ac.ir/s/yyqC9h6MB7hNe6E/download"
-              type="video/mp4"
-            /> -->
+          <video id="video" class="video" poster="/image/thumbnail/thumbnail.jpg" controls>
             <p>Your browser doesn't support HTML5 video.</p>
           </video>
         </div>

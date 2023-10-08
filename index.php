@@ -16,7 +16,9 @@
 <body>
   <?php include './HTML/Other/navbar.html'?>
   <header class="header main-header">
-    <p class="header-text"> Zanjan University Computer Website</p>
+    <div class="header-div-text">
+      <p class="header-text"> Zanjan University Computer Website</p>
+    </div>
   </header>
   <section class="znu-discription">
     <div class="znu-disc-container">
