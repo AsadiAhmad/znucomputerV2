@@ -16,7 +16,9 @@
 <body>
   <?php include './../Other/navbar.html'?>
   <header class="header semester5-header">
-
+    <div class="header-div-text">
+      <p class="header-text"> Semester5 </p>
+    </div>
   </header>
   <section class="course-section">
     <h2 class="course-section-text"> Courses </h2>
