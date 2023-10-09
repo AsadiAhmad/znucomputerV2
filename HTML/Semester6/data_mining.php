@@ -2,6 +2,7 @@
   include './../../PHP/htmlVideoGen.php';
 	$title = "Data Mining";
 	$header_name = $title;
+  $header_class = "header data-mining-header";
 	$image_link = "/image/lesson-img/data-mining.jpg";
 	$passage = "Lorem ipsum dolor sit amet consectetur, adipisicing elit. 
   Neque eaque iste, molestiae sint illo commodi! Hic, dolorem assumenda 

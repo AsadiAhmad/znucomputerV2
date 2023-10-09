@@ -2,6 +2,7 @@
   include './../../PHP/htmlVideoGen.php';
 	$title = "Micro Processor";
 	$header_name = $title;
+  $header_class = "header micro-processor-header";
 	$image_link = "/image/lesson-img/micro-processor.jpg";
 	$passage = "Lorem ipsum dolor sit amet consectetur, adipisicing elit. 
   Neque eaque iste, molestiae sint illo commodi! Hic, dolorem assumenda 

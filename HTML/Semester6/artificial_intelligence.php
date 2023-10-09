@@ -2,6 +2,7 @@
   include './../../PHP/htmlVideoGen.php';
 	$title = "Artificial Intelligence";
 	$header_name = $title;
+  $header_class = "header artificial-intelligence-header";
 	$image_link = "/image/lesson-img/artificial-intelligence.jpg";
 	$passage = "Lorem ipsum dolor sit amet consectetur, adipisicing elit. 
   Neque eaque iste, molestiae sint illo commodi! Hic, dolorem assumenda 

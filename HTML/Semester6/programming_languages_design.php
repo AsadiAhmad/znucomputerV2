@@ -2,6 +2,7 @@
   include './../../PHP/htmlVideoGen.php';
 	$title = "Programming Languages Design";
 	$header_name = $title;
+  $header_class = "header programming-languages-design-header";
 	$image_link = "/image/lesson-img/programming-languages-design.jpg";
 	$passage = "Lorem ipsum dolor sit amet consectetur, adipisicing elit. 
   Neque eaque iste, molestiae sint illo commodi! Hic, dolorem assumenda 

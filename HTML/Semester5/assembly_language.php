@@ -2,6 +2,7 @@
   include './../../PHP/htmlVideoGen.php';
 	$title = "Assembly Language";
 	$header_name = $title;
+  $header_class = "header assembly-language-header";
 	$image_link = "/image/lesson-img/assembly-language.jpg";
 	$passage = "Lorem ipsum dolor sit amet consectetur, adipisicing elit. 
   Neque eaque iste, molestiae sint illo commodi! Hic, dolorem assumenda 

@@ -30,6 +30,62 @@ header.about-header {
   background-image: url(/image/rain.jpg);
 }
 
+header.algorithm-design-header {
+  background-image: url(/image/Back-ground/znu26.jpg);
+}
+
+header.assembly-language-header {
+  background-image: url(/image/Back-ground/znu21.jpg);
+}
+
+header.compiler-design-header {
+  background-image: url(/image/Back-ground/znu22.jpg);
+}
+
+header.computer-vision-header {
+  background-image: url(/image/Back-ground/znu4.jpg);
+}
+
+header.micro-processor-header {
+  background-image: url(/image/Back-ground/znu20.jpg);
+}
+
+header.operating-system-header {
+  background-image: url(/image/Back-ground/znu13.jpg);
+}
+
+header.system-analysis-header {
+  background-image: url(/image/Back-ground/znu18.jpg);
+}
+
+header.artificial-intelligence-header {
+  background-image: url(/image/Back-ground/znu9.jpg);
+}
+
+header.computer-network-header {
+  background-image: url(/image/Back-ground/znu5.jpg);
+}
+
+header.data-mining-header {
+  background-image: url(/image/Back-ground/znu16.jpg);
+}
+
+header.FPGA-header {
+  background-image: url(/image/Back-ground/znu23.jpg);
+}
+
+header.programming-languages-design-header {
+  background-image: url(/image/Back-ground/znu2.jpg);
+}
+
+header.internet-engineering-header {
+  background-image: url(/image/Back-ground/znu27.jpg);
+}
+
+header.software-engineering-header {
+  background-image: url(/image/Back-ground/znu34.jpg);
+}
+
 p.header-text {
   background-color: aliceblue;
   opacity: 50%;

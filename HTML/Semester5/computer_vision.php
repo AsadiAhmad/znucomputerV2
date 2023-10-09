@@ -2,6 +2,7 @@
   include './../../PHP/htmlVideoGen.php';
 	$title = "Computer Vision";
 	$header_name = $title;
+  $header_class = "header computer-vision-header";
 	$image_link = "/image/lesson-img/computer-vision.jpg";
 	$passage = "Lorem ipsum dolor sit amet consectetur, adipisicing elit. 
   Neque eaque iste, molestiae sint illo commodi! Hic, dolorem assumenda 

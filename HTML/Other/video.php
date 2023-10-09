@@ -16,7 +16,7 @@
 </head>
 <body>
   <?php include './../Other/navbar.html'?>
-  <header class="header about-header">
+  <header class="<?php echo $header_class;?>">
     <div class="header-div-text">
       <p class="header-text"> <?php echo $header_name;?> </p>
     </div>

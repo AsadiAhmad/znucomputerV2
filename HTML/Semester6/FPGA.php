@@ -2,6 +2,7 @@
   include './../../PHP/htmlVideoGen.php';
 	$title = "FPGA";
 	$header_name = $title;
+  $header_class = "header FPGA-header";
 	$image_link = "/image/lesson-img/FPGA.jpg";
 	$passage = "Lorem ipsum dolor sit amet consectetur, adipisicing elit. 
   Neque eaque iste, molestiae sint illo commodi! Hic, dolorem assumenda 

@@ -2,6 +2,7 @@
   include './../../PHP/htmlVideoGen.php';
 	$title = "Software Engineering";
 	$header_name = $title;
+  $header_class = "header software-engineering-header";
 	$image_link = "/image/lesson-img/software-engineering.jpg";
 	$passage = "Lorem ipsum dolor sit amet consectetur, adipisicing elit. 
   Neque eaque iste, molestiae sint illo commodi! Hic, dolorem assumenda 

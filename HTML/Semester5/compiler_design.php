@@ -2,6 +2,7 @@
   include './../../PHP/htmlVideoGen.php';
 	$title = "Compiler Design";
 	$header_name = $title;
+  $header_class = "header compiler-design-header";
 	$image_link = "/image/lesson-img/compiler-design.jpg";
 	$passage = "Lorem ipsum dolor sit amet consectetur, adipisicing elit. 
   Neque eaque iste, molestiae sint illo commodi! Hic, dolorem assumenda 
