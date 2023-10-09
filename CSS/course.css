@@ -22,7 +22,9 @@ div.row {
 div.course {
   position: relative;
   margin: 0px;
+  padding-bottom: 20px;
   box-sizing: border-box;
+  border-radius: 50px;
   width: 250px;
   transition: all .2s ease;
   -webkit-transition: all .2s ease;
@@ -43,6 +45,7 @@ img.course-img {
   display: block;
   width: 100%;
   padding: 30px;
+  border-radius: 50px;
 }
 
 @media (max-width: 910px) {

@@ -107,7 +107,7 @@ div.header-div-text {
   }
 
   p.header-text {
-    font-size: 40px;
+    font-size: 50px;
   }
 }
 
@@ -117,6 +117,10 @@ div.header-div-text {
   }
 
   p.header-text {
-    font-size: 30px;
+    font-size: 40px;
+  }
+
+  div.header-div-text {
+    padding-top: 150px;
   }
 }
