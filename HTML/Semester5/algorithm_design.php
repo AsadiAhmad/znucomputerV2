@@ -11,7 +11,7 @@
   algorithm design techniques such as divide and conquer, dynamic programming, 
   and greedy algorithms.";
   $lesson_name = "compiler_design";
-  $count = "17";
+  $count = "23";
 	
 	include "./../Other/video.php";
 ?>

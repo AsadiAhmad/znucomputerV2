@@ -24,6 +24,12 @@ div.course {
   margin: 0px;
   box-sizing: border-box;
   width: 250px;
+  transition: all .2s ease;
+  -webkit-transition: all .2s ease;
+}
+
+div.course:hover {
+  background-color: #C0C0C0;
 }
 
 p.course-text {
