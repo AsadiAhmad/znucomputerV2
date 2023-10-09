@@ -4,18 +4,7 @@
 	$header_name = $title;
   $header_class = "header system-analysis-header";
 	$image_link = "/image/lesson-img/system-analysis.jpg";
-	$passage = "Lorem ipsum dolor sit amet consectetur, adipisicing elit. 
-  Neque eaque iste, molestiae sint illo commodi! Hic, dolorem assumenda 
-  ducimus, nihil inventore dignissimos, exercitationem rerum consectetur 
-  facere commodi maiores sunt perferendis. Nulla nam esse, sed ipsum 
-  laudantium maiores soluta culpa ratione voluptatum minima ab molestias 
-  voluptates? Laboriosam voluptates quasi quaerat hic nesciunt 
-  aspernatur facere minus eligendi explicabo tenetur molestias nulla 
-  necessitatibus libero minima repellendus ducimus voluptatum obcaecati 
-  praesentium pariatur temporibus, distinctio, dolor fuga quas odio. Ea 
-  dolores id consectetur non esse neque impedit quo tempora deserunt 
-  unde, eaque accusantium at! Saepe et delectus dicta architecto, qui 
-  nobis corrupti placeat sit exercitationem.";
+	$passage = "System Analysis is a course that teaches students how to analyze complex systems and identify opportunities for improvement. Students learn about modeling techniques, data analysis, and other tools that are used to understand and optimize systems in fields such as business, engineering, and healthcare.";
   $lesson_name = "compiler_design";
   $count = "23";
 	
