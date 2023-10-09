@@ -23,8 +23,8 @@
     <div class="course-container">
       <div class="row">
         <div class="course artificial_intelligence">
-          <a href="/HTML/Semester5/algorithm_design.php">
-            <img class="course-img" src="/image/lesson-img/ai.jpg" alt="Artificial Intelligence picture">
+          <a href="/HTML/Semester6/artificial_intelligence.php">
+            <img class="course-img" src="/image/lesson-img/artificial-intelligence.jpg" alt="Artificial Intelligence picture">
           </a>
           <p class="course-text">Artificial Intelligence</p>
         </div>
