@@ -51,5 +51,6 @@
     </div>
   </section>
   <?php include './HTML/Other/footer.html'?>
+  <script src="/JS/blindUser.js"></script>
 </body>
 </html>

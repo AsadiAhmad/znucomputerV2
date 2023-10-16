@@ -45,7 +45,7 @@
       </div>
       <div class="right">
         <div class="video-player">
-          <video id="video" class="video" poster="/image/thumbnail/thumbnail.jpg" controls>
+          <video id="video" class="video" poster="/image/thumbnail/thumbnail.jpg" controls controlsList="nodownload">
             <p>Your browser doesn't support HTML5 video.</p>
           </video>
         </div>

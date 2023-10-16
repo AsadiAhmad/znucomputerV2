@@ -1,10 +1,10 @@
 <?php
-  //$lines = file('../File/localInfo.txt', FILE_IGNORE_NEW_LINES | FILE_SKIP_EMPTY_LINES);
+  $lines = file('../File/localInfo.txt', FILE_IGNORE_NEW_LINES | FILE_SKIP_EMPTY_LINES);
 
-  $servername = "linux23";
-  $username = "znucompu_znucomputer";
-  $password = "Ah-As-22-ij";
-  $dbname = "znucompu_znu";
+  $servername = $lines[0];
+  $username = $lines[1];
+  $password = "";
+  $dbname = $lines[2];
 
   $connction = new mysqli($servername, $username, $password, $dbname);
 
