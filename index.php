@@ -15,7 +15,7 @@
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
 <body class="unselectable">
-  <?php include './HTML/Other/navbar.html'?>
+  <div id="navbarInclude"></div>
   <header class="header main-header">
     <div class="header-div-text">
       <p class="header-text"> Zanjan University Computer Website</p>
@@ -50,7 +50,12 @@
       </div>
     </div>
   </section>
-  <?php include './HTML/Other/footer.html'?>
+  <div id="footerInclude"></div>
   <script src="/JS/blindUser.js"></script>
+  <script src="/JS/includer.js"></script>
+  <script> 
+    includeHTML("HTML/Other/navbar.html", "navbarInclude", "nav")
+    includeHTML("HTML/Other/footer.html", "footerInclude", "footer")
+  </script>
 </body>
 </html>
