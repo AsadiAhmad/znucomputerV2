@@ -1,0 +1,80 @@
+h2.schedule-section-text {
+  color: #555;
+  text-align: center;
+  padding-top: 30px;
+  font-size: 3rem;
+  font-weight: 400;
+  margin-bottom: 1rem;
+  font-family: 'xb_niloofarregular';
+}
+
+div.schedule-container {
+  max-width: 1600px;
+  padding: 0 12% 70px 12%;
+}
+
+div.row {
+  display: flex;
+  justify-content: space-around;
+  box-sizing: border-box;
+}
+
+div.schedule {
+  position: relative;
+  margin: 0px;
+  padding-bottom: 20px;
+  box-sizing: border-box;
+  border-radius: 50px;
+  width: 250px;
+  transition: all .2s ease;
+  -webkit-transition: all .2s ease;
+}
+
+div.schedule:hover {
+  background-color: #C0C0C0;
+}
+
+p.schedule-text {
+  text-align: center;
+  font-family: 'ubunturegular';
+  font-size: 1.4rem;
+  font-weight: 500;
+}
+
+img.schedule-img {
+  display: block;
+  width: 100%;
+  padding: 30px;
+  border-radius: 50px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+img.schedule-img:hover {
+  opacity: 0.7;
+}
+
+@media (max-width: 910px) {
+  div.schedule-container {
+    padding: 0 6% 70px 6%;
+  }
+}
+
+@media (max-width: 510px) {
+  div.row {
+    flex-direction: column;
+  }
+
+  div.schedule {
+    margin: 0px 40px 0px 40px;
+  }
+
+  div.schedule-container {
+    padding: 0 12% 70px 12%;
+  }
+
+  p.schedule-text {
+    font-size: 1.2rem;
+    font-weight: 300;
+  }
+}
