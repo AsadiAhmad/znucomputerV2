@@ -44,7 +44,7 @@ p.schedule-text {
 img.schedule-img {
   display: block;
   width: 100%;
-  padding: 30px;
+  padding: 20px;
   border-radius: 50px;
   cursor: pointer;
   transition: 0.3s;
